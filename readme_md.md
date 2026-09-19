@@ -30,8 +30,6 @@ Você pode testar a aplicação online hospedada de graça no GitHub Pages:
 | **k** | Surdo (Floor Tom) | `tom3.mp3` | 
 | **l** | Prato de Ataque (Crash) | `crash.mp3` | 
 
-*(Substitua ou adicione as teclas e peças de acordo com as que você configurou no seu projeto)*
-
 ## 🚀 Como Executar o Projeto Localmente
 
 1. **Clone o repositório:**
